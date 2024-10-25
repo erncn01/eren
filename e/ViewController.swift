@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var second: UITextField!
     
-    
+    var result = 0.0
     
     @IBOutlet weak var label: UITextField!
     
@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     }
 
 
-    
+
     }
     
     
